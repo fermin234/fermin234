@@ -117,8 +117,6 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 </div>
 <br>
 
-<hr>
-
 ## Contacto 🤝
 
 <div> <a href='https://www.linkedin.com/in/fermin-solaberrieta/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
