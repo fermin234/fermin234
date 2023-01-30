@@ -8,7 +8,6 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 ## <div align ='center'> 👨‍💻 Algunas de mis habilidades: </div>
 
 <hr>
-
 <br />
 <p align='center'>
   <img width='60px' src='https://user-images.githubusercontent.com/102181381/185231737-1ba31713-13f0-48a3-b352-5c2bef06285c.svg' />
