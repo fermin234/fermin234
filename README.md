@@ -42,8 +42,6 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 
 <br><br/>
 
-<hr>
-
 ## <div align='center'> 🗂 Mis Proyectos </div>
 
 <br>
