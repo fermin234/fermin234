@@ -1,7 +1,9 @@
 # <div align='center'>😃 Hola, espero que te encuentres bien! 👋 </div>
 
+<div align='center'>
 Mi nombre es Fermín Solaberrieta, soy Full Stack Web Developer(y un apasionado por la programación).<br>
 Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma independiente o en grupo.
+</div>
 
 <br><br/>
 
