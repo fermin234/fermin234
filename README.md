@@ -112,7 +112,7 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermin234&theme=github_dark&card_width=450em)]"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermin234&theme=github_dark&card_width=450em&hide_border=true"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fermin234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&hide_stars=false" /></td>
   </tr>
 </table>
