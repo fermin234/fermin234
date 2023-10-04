@@ -122,5 +122,5 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 ## Contacto 🤝
 
 <div> <a href='https://www.linkedin.com/in/fermin-solaberrieta/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
-<div> 📫 fermin234@hotmail.com </div>
+<div> 📫 fermindev@gmail.com </div>
 <div> 📱  +54 2473-400240 </div>
