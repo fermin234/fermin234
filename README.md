@@ -106,19 +106,6 @@ Me gusta mejorar mis conocimientos aprendiendo día a día, ya sea de forma inde
 <hr>
 <br>
 
-## Github Stats:
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermin234&theme=github_dark&card_width=450em&hide_border=true"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fermin234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&hide_stars=false" /></td>
-  </tr>
-</table>
-<div align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermin234&theme=transparent" alt="fermin234" />
-</div>
-<br>
-
 ## Contacto 🤝
 
 <div> <a href='https://www.linkedin.com/in/fermin-solaberrieta/'> <img width='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' /> LinkedIn </a> </div>
