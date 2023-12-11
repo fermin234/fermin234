@@ -1,7 +1,7 @@
 # <div align='center'>😃 Hola, espero que te encuentres muy bien! 👋 </div>
 
 <div align='center'>
-Mi nombre es Fermín Solaberrieta, soy Full Stack Web Developer
+Mi nombre es Fermín Solaberrieta y soy Full Stack Web Developer
 
 <br><br/>
 
