@@ -48,6 +48,7 @@ Mi nombre es Fermín Solaberrieta y soy Full Stack Web Developer
 
 ### <div align='center'><a href='https://game-informer.vercel.app/'> 💡 Game Informer </a> </div>
 
+<div align='start'>
 <pre>🎮Game Informer es una SPA en la que podrás ver TODOS los juegos que quieras con:</br>🔸Información específica de cada video juego(imágenes, fecha de lanzamiento, plataformas, etc.)
 🔸En su home se encuentra un apartado de búsqueda, filtros y ordenamientos combinados.
 🔸Podrás crear nuevos juegos mediante un formulario totalmente controlado y persistente.
@@ -56,6 +57,7 @@ Mi nombre es Fermín Solaberrieta y soy Full Stack Web Developer
 🔸Guardar sus juegos favoritos.
 🔸Apartado about donde se especifica la página al detalle.
 </pre>
+</div>
 
 <div align='center'>
   <img width='400px' src='./assets/LandingPage.png' />
